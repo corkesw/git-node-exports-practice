@@ -1,0 +1,23 @@
+{
+  "name": "git-node-exports-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corkesw/git-node-exports-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/corkesw/git-node-exports-practice/issues"
+  },
+  "homepage": "https://github.com/corkesw/git-node-exports-practice#readme",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
